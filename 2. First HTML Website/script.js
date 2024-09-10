@@ -1,0 +1,1 @@
+alert("Welcome to JS in first page")

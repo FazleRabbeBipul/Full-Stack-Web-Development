@@ -1,0 +1,13 @@
+1. client 
+2. server
+3. browser
+
+client -> browser
+
+browser -> server
+ server -> browser
+ server ! browser
+
+client <- browser
+
+

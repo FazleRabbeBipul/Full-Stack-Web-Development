@@ -1,0 +1,4 @@
+class , . 
+id #
+
+different element can have class with same name.

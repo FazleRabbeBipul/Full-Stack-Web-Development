@@ -1,0 +1,6 @@
+Inline, Internal, External CSS 
+
+When why?
+- Inline try to avoid
+- Internal - little website, lite work
+- External- big project, good practice

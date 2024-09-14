@@ -1,0 +1,3 @@
+Fonts requirment:
+ standard: Lucids, gegeo, TImes
+

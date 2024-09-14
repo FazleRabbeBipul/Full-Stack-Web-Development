@@ -1,0 +1,14 @@
+note:
+
+In box, effect works in content + padding. not in border or margin.
+
+
+height: 200px
+  200px is the content size original.
+
+but in box-sizing: border-box; 
+  here, border + padding auto included | not margin included
+
+Margin Collapse:
+  visible margin = max(boxA margin, BoxB margin);
+
